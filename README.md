@@ -1,1 +1,3 @@
-# Myccolapp
+# Mycoolapp
+
+My java springboot docker application
